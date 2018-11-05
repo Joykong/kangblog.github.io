@@ -150,10 +150,10 @@ h5 {
   font-size: 1em; }
 
 p {
-  margin-bottom: 10px;
-  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-top: 20px;
   line-height: 1.7em; 
-  padding-left: 20px;
+  padding-left: 0px;
 }
 
 strong {
@@ -331,7 +331,7 @@ img::-moz-selection {
 
   .date,
   .time,
-  .author{ color: #FF6633; }
+  .author{ color: #C3C3C3; }
   .date a,
   .time a,
   .author a,
