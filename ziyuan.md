@@ -92,19 +92,13 @@ Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_b
 </p>
 
 <a href="/photos/" target="_blank"><img src="http://omjh2j5h3.bkt.clouddn.com/tupian.png" width="100%" height="auto" alt="photos" display="block"/></a>
-
-<p>
+</p>
 <a style="color:#272727" target="_blank"> <h1>足迹「Footmark」</h1></a>  
 <p>
 <h5>如果一个人的声音和足迹，能被另外一个人永远地铭记或怀念，这就是永恒。</h5>
 <br> 
 <iframe style="max-width: 100%" frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="450px" src="/map/README.html"><br></iframe>
-
-<p>
-</div>
-</div>
-
-
+</p>
 
 <a  style="color:#272727" target="_blank"> <h1>游戏「Games」</h1></a>  
 </p>
