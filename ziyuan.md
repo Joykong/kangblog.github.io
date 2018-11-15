@@ -20,9 +20,8 @@ title: 资源「USEFUL LINKS」
 
 <img src="http://omjh2j5h3.bkt.clouddn.com/icon/%E5%AD%A6UI%E7%BD%91.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 
-<a href="http://robotkang.xyz" style="color:#DC143C" target="_blank">Company</a>- FLAG
+<a href="http://robotkang.xyz" style="color:#DC143C" target="_blank">Company</a>- FLAG&emsp;
 
-<p>
 <img src="http://omjh2j5h3.bkt.clouddn.com/icon/%E6%B1%82%E5%AD%97%E4%BD%93.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="http://wiki.robotkang.cc" target="_blank" style="text-decoration:none" > Robotkang's Wiki </a>个人维基百科库，还未整理！    
 <img src="http://omjh2j5h3.bkt.clouddn.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
@@ -61,27 +60,27 @@ title: 资源「USEFUL LINKS」
 
 <h3> Resource sharing</h3>   
 <P>
-<a href="http://jekyllthemes.org"  > Jekyll主题合集</a>我用的就是jekyll。      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexojs/hexo/wiki/Themes" target="_blank"> Hexo主题合集</a>使用方法里面
+<a href="http://jekyllthemes.org"  > Jekyll主题合集</a>我用的就是jekyll。&emsp;
+<a href="https://github.com/hexojs/hexo/wiki/Themes" target="_blank"> Hexo主题合集</a>使用方法里面&emsp;
 都有详细的介绍，我就不多说了。      
-<p><a href="http://wiki.xiaolei.tech" target="_blank" > Xiaolei's Wiki </a>一个个人的维基百科库，相当给力！    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/litten/hexo-theme-yilia" target="_blank" > Yilia </a>- Responsive and simple style 优雅简洁响应式主题。「存个档」
+<a href="http://wiki.xiaolei.tech" target="_blank" > Xiaolei's Wiki </a>一个个人的维基百科库，相当给力&emsp;
+<a href="https://github.com/litten/hexo-theme-yilia" target="_blank" > Yilia </a>- Responsive and simple style 优雅简洁响应式主题。「存个档」&emsp;
 
  <p>
 <h3> Friends</h3>  
  <p>
 <strong>江湖上的事，名头占了两成，功夫占了两成，余下的六成，却要靠黑白两道的朋友们赏脸了。</strong>
 <p>
-<a href="http://www.lilian.info" target="_blank" >LILIAN</a>- 牛人一枚 UESTC
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dandyweng.com" target="_blank" >翁天信</a>- homeschooling、自由的行者...
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.iots.vip" target="_blank" >Alliot's blog</a>- Maker & Developer
-<p>
-<a href="http://szhshp.org" target="_blank" >szhshp</a>- 前端，设计，游戏，生活.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://xiaolei.tech" target="_blank" >Xiaolei</a>- 电科，影响了我的一位大神.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://program-think.blogspot.com/" target="_blank" >编程随想的博客</a>- 需翻墙
+<a href="http://www.lilian.info" target="_blank" >LILIAN</a>- 牛人一枚 UESTC&emsp;
+<a href="https://www.dandyweng.com" target="_blank" >翁天信</a>- homeschooling、自由的行者...&emsp;
+<a href="https://www.iots.vip" target="_blank" >Alliot's blog</a>- Maker & Developer&emsp;
+<a href="http://szhshp.org" target="_blank" >szhshp</a>- 前端，设计，游戏，生活.&emsp;
+<a href="https://xiaolei.tech" target="_blank" >Xiaolei</a>- 电科，影响了我的一位大神.&emsp;
+<a href="https://program-think.blogspot.com/" target="_blank" >编程随想的博客</a>- 需翻墙&emsp;
 
 <h3> Others</h3>  
- <p> 
-Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_blank" > 作业部落 </a> &emsp; <a  href="http://nav.templatesy.com/"  >Templatesy</a>-前端网址导航.
+<p> 
+Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_blank" > 作业部落 </a>  <a  href="http://nav.templatesy.com/"  >Templatesy</a>-前端网址导航.
 <p>
 <a href="http://www.w3school.com.cn" target="_blank" > w3school </a>-在w3school上，你可以找到全面的~建站资料「html、css、sql、php...」
 </p>
@@ -108,7 +107,6 @@ Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_b
 <a href="/gamebird/"  target="_blank" >Flappy Bird</a>- 像素小鸟.&emsp;
 <a href="/gamefly/"  target="_blank" >飞机大战</a>- 仿微信端 &emsp;
 <a href="http://www.jq22.com/demo/jquery-xiangqi-141214215742/"  target="_blank" >中国象棋</a>-国粹&emsp;
-</p>
 <a href="http://www.jq22.com/demo/jquery-jfcz20160830/"  target="_blank" >见缝插针</a>-看你过得了多少关..&emsp;
 <a href="http://www.jq22.com/demo/jquery-wzq20151231/"  target="_blank" >五子棋</a>-益智小游戏&emsp;</p>
 
@@ -118,4 +116,4 @@ Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_b
 
 
 
-
+&emsp;
