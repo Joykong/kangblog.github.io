@@ -21,7 +21,7 @@ tag: 博客
 > GND:模块供电负极          
 
 
-<img src="http://omjh2j5h3.bkt.clouddn.com/%E8%93%9D%E7%89%99/7.png" width="380" height="230" alt="photos"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/%E8%93%9D%E7%89%99/7.png" width="380" height="230" alt="photos"/>
 
 
 
@@ -57,7 +57,7 @@ tag: 博客
     要设置蓝牙AT指令，必须让AT引脚置高(接高电平)，然后接上蓝牙模块，当蓝牙模块state灯变为慢闪，则表明已经进入AT模式。（j将蓝牙模块与转串口模块对插，用跳线将AT对应的引脚接VCC）这时候将转串口模块接入电脑，打开超级终端或者串口调试助手便可以开始设置AT模式。        
     打开串口调试助手，测试AT指令，找到相应串口号后，注意两点，`1、设置AT模式的波特率为38400 ``2、输入指令后加上回车后换行，发送后返回OK.`     
 
-<img src="http://omjh2j5h3.bkt.clouddn.com/%E8%93%9D%E7%89%99/6.png" width="420" height="250" alt="photos"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/%E8%93%9D%E7%89%99/6.png" width="420" height="250" alt="photos"/>
 
     *下面来设置模块为从机模式，依次输入指令:*  
 
@@ -144,7 +144,7 @@ tag: 博客
 ### 附表：
 
 
-<img src="http://omjh2j5h3.bkt.clouddn.com/%E8%93%9D%E7%89%99/5.png" width="680" height="430" alt="photos"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/%E8%93%9D%E7%89%99/5.png" width="680" height="430" alt="photos"/>
 
 
 ----------

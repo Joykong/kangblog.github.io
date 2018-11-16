@@ -14,7 +14,7 @@ tag:  Arduino
 
 ## 正文：
   体感智能车的原理非常的简单，就是利用Kinect采集人体的姿体信息，然后通过蓝牙串口向Arduino发送字符命令。Arduino通过相应的字符命令控制双H桥电机驱动模块实现小车的前进后退等动作。项目主要用到小车底盘套件、蓝牙、控制器等...
-<img src="http://omjh2j5h3.bkt.clouddn.com/%E6%99%BA%E8%83%BD%E8%BD%A6/1.png" width="380" height="230" alt="photos"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/%E6%99%BA%E8%83%BD%E8%BD%A6/1.png" width="380" height="230" alt="photos"/>
 
 ### Arduino实现串口控制小车
 
@@ -25,7 +25,7 @@ tag:  Arduino
 
 一、安装4WD小车，小车是纯金属的外壳比较抗撞不容易损坏，亚克力的也行，视自己情况而定。
 [安装视频](http://v.youku.com/v_show/id_XNTU2NjY3MDI0.html)
-<img src="http://omjh2j5h3.bkt.clouddn.com/%E6%99%BA%E8%83%BD%E8%BD%A6/3.png" width="380" height="230" alt="photos"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/%E6%99%BA%E8%83%BD%E8%BD%A6/3.png" width="380" height="230" alt="photos"/>
 
 
       安装好小车地盘后再小车地盘内部安装双H桥驱动和电池将控制引脚用3P杜邦线接到Arduino上，连接好电源向Arduino内烧录程序（编译软件为Arduino IDE）。代码如下： 
@@ -171,7 +171,7 @@ tag:  Arduino
 
 
          解压驱动包，首先安装`OpenNI`，然后安装`SensorKinect`，最后Sensor全部安装完成以后，重启电脑。将你的Kinect连接上电脑插好电源，可以通过查看控制面板中的设备管理器，检查你的电脑是否已 经识别`Kinect`。
- <img src="http://omjh2j5h3.bkt.clouddn.com/%E6%99%BA%E8%83%BD%E8%BD%A6/2.png" width="300" height="180" alt="photos"/>
+ <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/%E6%99%BA%E8%83%BD%E8%BD%A6/2.png" width="300" height="180" alt="photos"/>
 
 
           驱动安装完成后下载`processing`软件双击打开，打开后会在`我的文档`中出现processing文件夹讲下载的库文件`SimpleOpenNI-0.27`解压后复制到processing下的libraries下如果没有新建一个即可。重新打开processing就可以进行Kenect的程序编写了。

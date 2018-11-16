@@ -20,7 +20,7 @@ comments: true
 
 新闻还在发生，我在这里等你，I   Want  U！！！         
 
-<img src="http://omjh2j5h3.bkt.clouddn.com/kanggzh.jpg" width="130" height="130" alt="photos"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/kanggzh.jpg" width="130" height="130" alt="photos"/>
 
 最后编辑时间为: Oct.02, 2017 at 08:03 pm          
 

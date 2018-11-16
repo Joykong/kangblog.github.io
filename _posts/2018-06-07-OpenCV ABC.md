@@ -9,13 +9,13 @@ tag: 机器视觉
 
 
 
-## Visual Studio 2010 安装
+### Visual Studio 2010 安装
 
 
 　为了和书本统一我安装了Visual Studio 2010 旗舰版本，安装还算顺利。出现了一些 Bug，通过搜索也顺利的解决了..        
  - 下载网站：[https://msdn.itellyou.cn](https://msdn.itellyou.cn)       
 
-##  安装并配置OpenCV            
+###  安装并配置OpenCV            
 
    
 ** 1. 进入OpenCV官网，下载软件**     
@@ -33,11 +33,11 @@ Python也要在本地下载安装好，我现在安装的是 `OpenCV 2.4.11` . 3
 ** 3.都装好后就可以运行程序了**    
 
 
-<img src="http://omjh2j5h3.bkt.clouddn.com/hello%20OpenCV.png" width="630" height="380" alt="photos"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/hello%20OpenCV.png" width="630" height="380" alt="photos"/>
 
 - 参考书籍:《OpenCV3 编程入门》《学习OpenCV—中文版》 
 
-## 总结
+### 总结
 
 
 &emsp;搞了一下午运行环境终于搞好了，明天开始上手OpenCV图像处理。O(∩_∩)O哈哈~             

@@ -33,7 +33,7 @@ tags: 博客
 | 天行VPN    |  老牌VPN、提供世界各地VPN代理服务器，低延时、高稳定性 |  ¥20 |  [点此进入][11]     |-->
 
 
-<a href="https://vip.member.biwcloud.com/aff.php?aff=6"><img style="border: 0px" src="http://omjh2j5h3.bkt.clouddn.com/image/Google%20earth.png"/></a>        
+<a href="https://vip.member.biwcloud.com/aff.php?aff=6"><img style="border: 0px" src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/Google%20earth.png"/></a>        
 
 
   自从翻墙以来，感觉是发现了新大陆！最近发现谷歌地球是相当...用一个词形容那就是“惊艳”，玩了一下午简直停不下来，当查看天朝的时候，发现并没有给任何一个城市建模（反正截止目前没得），这也难怪，与世隔绝嘛，大家都懂。           

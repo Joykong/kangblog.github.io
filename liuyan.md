@@ -4,7 +4,7 @@ title: 留言板「MESSAGE」
 comments: true 
 ---
 
-<img src="http://omjh2j5h3.bkt.clouddn.com/2345%E6%88%AA%E5%9B%BE20170318141303_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg" width="360" height="250" alt="huanying"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/2345%E6%88%AA%E5%9B%BE20170318141303_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg" width="360" height="250" alt="huanying"/>
 
 
 <p><h4>有什么话要对我说吗？</h4>     
@@ -12,13 +12,13 @@ comments: true
 <p><h4>可以交流，可以感叹，可以发飙，但不可以订外卖 、、、</h4>   
 
 <div class="text-center" style="margin-top: 15px;">
-    <img src="http://omjh2j5h3.bkt.clouddn.com/%E5%A4%9A%E5%90%88%E4%B8%80%E6%89%93%E8%B5%8F%E4%BA%8C%E7%BB%B4%E7%A0%81.png" width="128" height="128" title="支付宝、微信、手机QQ扫码打赏">
+    <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/%E5%A4%9A%E5%90%88%E4%B8%80%E6%89%93%E8%B5%8F%E4%BA%8C%E7%BB%B4%E7%A0%81.png" width="128" height="128" title="支付宝、微信、手机QQ扫码打赏">
 </div>
 
 <p>
-<img src="http://omjh2j5h3.bkt.clouddn.com/log_yuan.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/log_yuan.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="/donation/" target="_blank" style="text-decoration:none;color:#FF4500">赞助光荣榜</a> &nbsp;&nbsp;
-<img src="http://omjh2j5h3.bkt.clouddn.com/log_yuan.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/log_yuan.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="/dsimg/" style="color:#FF4500" target="_blank" style="text-decoration:none">Donation</a> &nbsp;&nbsp;
 <p>花径不曾缘客扫，蓬门今始为君开！
 我一直相信，所有的相遇都是一种缘分。能够看到这些文字，我们之间就已经产生了些不可言喻，却又令人期待的微妙联系。
