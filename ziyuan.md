@@ -85,7 +85,6 @@ Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_b
 <p>
 <a href="http://www.w3school.com.cn" target="_blank" > w3school </a>-在w3school上，你可以找到全面的~建站资料「html、css、sql、php...」
 
-<p>
 <a href="/photos/"  style="color:#272727" target="_blank"> <h1>相册「Photos」</h1></a>  
 </p>
 
