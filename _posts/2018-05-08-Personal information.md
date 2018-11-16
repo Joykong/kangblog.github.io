@@ -47,7 +47,7 @@ tags: 博客
 
 
 
-  [1]: http://omjh2j5h3.bkt.clouddn.com/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91.png
+  [1]: https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91.png
  
   [4]: https://vip.member.biwcloud.com/aff.php?aff=6
   [5]: http://t.cn/R65FtK1
@@ -57,4 +57,4 @@ tags: 博客
   [9]: http://42v.net/ymree
   [10]: http://gjsq.me/30438734
   [11]: http://go.tianxingvpn.top/?r=28008
-  [12]: http://omjh2j5h3.bkt.clouddn.com/image/Google%20earth.png
+  [12]: https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/Google%20earth.png

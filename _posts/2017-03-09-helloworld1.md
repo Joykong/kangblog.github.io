@@ -6,7 +6,7 @@ tag: 网站建设
 ---
 
 
- ![hello world](http://omjh2j5h3.bkt.clouddn.com/2017-03-09.jpg)
+ ![hello world](https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/2017-03-09.jpg)
 
 
 

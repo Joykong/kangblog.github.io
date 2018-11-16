@@ -11,31 +11,31 @@ title: 资源「USEFUL LINKS」
 <h3> Personal Website</h3>   
 <p>
 
-<img src="http://omjh2j5h3.bkt.clouddn.com/icon/%E9%85%8D%E8%89%B2%E5%99%A8.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/%E9%85%8D%E8%89%B2%E5%99%A8.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="/college/" target="_blank">大学|四年</a>- 记青春年华. &emsp;
-<img src="http://omjh2j5h3.bkt.clouddn.com/icon/%E4%BC%98%E7%95%8C%E7%BD%91.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/%E4%BC%98%E7%95%8C%E7%BD%91.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="/time machine/" style="color:#DC143C" target="_blank">微语</a>- Time Machine &emsp;
-<img src="http://omjh2j5h3.bkt.clouddn.com/icon/Colorfavs.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/Colorfavs.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="/book/" style="color:#DC143C" target="_blank">个人书单</a>-  FLAG &emsp;
 
-<img src="http://omjh2j5h3.bkt.clouddn.com/icon/%E5%AD%A6UI%E7%BD%91.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/%E5%AD%A6UI%E7%BD%91.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 
 <a href="http://robotkang.xyz" style="color:#DC143C" target="_blank">Company</a>- FLAG&emsp;
 
-<img src="http://omjh2j5h3.bkt.clouddn.com/icon/%E6%B1%82%E5%AD%97%E4%BD%93.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/%E6%B1%82%E5%AD%97%E4%BD%93.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="http://wiki.robotkang.cc" target="_blank" style="text-decoration:none" > Robotkang's Wiki </a>个人维基百科库，还未整理！    
-<img src="http://omjh2j5h3.bkt.clouddn.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="/app/" target="_blank">APP下载1</a>
-<img src="http://omjh2j5h3.bkt.clouddn.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="/APP/" target="_blank">APP下载2</a>- 专属软件.&emsp;
-<img src="http://omjh2j5h3.bkt.clouddn.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="/Robotkang Lab/" target="_blank">Robotkang Lab</a>- LAB.未更新&emsp;
 
 <P>       
 <h3> Some useful/beautiful web </h3>   
 <p>
 <a href="https://www.panc.cc" target="_blank">胖次</a>- 网盘，资料搜索..&emsp;
-<img src="http://omjh2j5h3.bkt.clouddn.com/log_yuan.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
+<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/log_yuan.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="https://vip.member.biwcloud.com/aff.php?aff=6" style="color:#DC143C" target="_blank">梯子[VPN]</a>- 可访问Google的东东 &emsp;
 <a href="http://daohang.lusongsong.com/" target="_blank">博客大全</a>- Blog&emsp;
 <a href="http://www.sysmini.com" target="_blank">极简系统</a>- 最纯净的系统下载平台       
@@ -80,21 +80,20 @@ title: 资源「USEFUL LINKS」
 
 <h3> Others</h3>  
 <p> 
-Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_blank" > 作业部落 </a>  <a  href="http://nav.templatesy.com/"  >Templatesy</a>-前端网址导航.
+Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_blank" > 作业部落 </a>  &emsp;
+<a  href="http://nav.templatesy.com/"  >Templatesy</a>-前端网址导航.
 <p>
 <a href="http://www.w3school.com.cn" target="_blank" > w3school </a>-在w3school上，你可以找到全面的~建站资料「html、css、sql、php...」
-</p>
-
 
 <p>
 <a href="/photos/"  style="color:#272727" target="_blank"> <h1>相册「Photos」</h1></a>  
 </p>
 
-<a href="/photos/" target="_blank"><img src="http://omjh2j5h3.bkt.clouddn.com/tupian.png" width="100%" height="auto" alt="photos" display="block"/></a>
+<a href="/photos/" target="_blank"><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/tupian.png" width="100%" height="auto" alt="photos" display="block"/></a>
 </p>
 <a style="color:#272727" target="_blank"> <h1>足迹「Footmark」</h1></a>  
 <p>
-<h4>如果一个人的声音和足迹，能被另外一个人永远地铭记或怀念，这就是永恒。</h4>
+<h5>如果一个人的声音和足迹，能被另外一个人永远地铭记或怀念，这就是永恒。</h5>
 <br> 
 <iframe style="max-width: 100%" frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="450px" src="/map/README.html"><br></iframe>
 </p>
