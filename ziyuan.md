@@ -94,7 +94,7 @@ Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_b
 </p>
 <a style="color:#272727" target="_blank"> <h1>足迹「Footmark」</h1></a>  
 <p>
-<h5>如果一个人的声音和足迹，能被另外一个人永远地铭记或怀念，这就是永恒。</h5>
+<h4>如果一个人的声音和足迹，能被另外一个人永远地铭记或怀念，这就是永恒。</h4>
 <br> 
 <iframe style="max-width: 100%" frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="450px" src="/map/README.html"><br></iframe>
 </p>
@@ -108,12 +108,5 @@ Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_b
 <a href="/gamefly/"  target="_blank" >飞机大战</a>- 仿微信端 &emsp;
 <a href="http://www.jq22.com/demo/jquery-xiangqi-141214215742/"  target="_blank" >中国象棋</a>-国粹&emsp;
 <a href="http://www.jq22.com/demo/jquery-jfcz20160830/"  target="_blank" >见缝插针</a>-看你过得了多少关..&emsp;
-<a href="http://www.jq22.com/demo/jquery-wzq20151231/"  target="_blank" >五子棋</a>-益智小游戏&emsp;</p>
+<a href="http://www.jq22.com/demo/jquery-wzq20151231/"  target="_blank" >五子棋</a>-益智小游戏&emsp;
 
-
-
-
-
-
-
-&emsp;
