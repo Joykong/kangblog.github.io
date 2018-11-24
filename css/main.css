@@ -117,7 +117,7 @@ h1 {
 
 h2 {
   font-size: 1.5em; 
-  padding: 8px 15px;
+  padding: 0px 15px;
   border-radius: 0px; 
   border-left: 5px solid #FF0606; 
   color: #000;
@@ -132,7 +132,7 @@ h3 {
   font-size: 1.3em; 
   text-indent: 0px; 
   border-radius: 0px; 
-  padding: 6px 15px;
+  padding: 0px 15px;
   margin-bottom: 30px;
   margin-top: 30px;
   /*background:#B9D3EE;
