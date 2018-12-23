@@ -30,7 +30,7 @@ title: 资源「USEFUL LINKS」
 <a href="/APP/" target="_blank">APP下载2</a>- 专属软件.&emsp;
 <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="/Robotkang Lab/" target="_blank">Robotkang Lab</a>- LAB.未更新&emsp;
-<a href="/zajia/"  style="color:#DC144C" target="_blank">杂家导航</a>  
+<a href="/zajia/"  style="color:#DC144C" target="_blank">杂家导航</a>   
 
 <P>       
 <h3> Some useful/beautiful web </h3>   
