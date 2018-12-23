@@ -30,6 +30,7 @@ title: 资源「USEFUL LINKS」
 <a href="/APP/" target="_blank">APP下载2</a>- 专属软件.&emsp;
 <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/app%E8%A7%84%E8%8C%83.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="/Robotkang Lab/" target="_blank">Robotkang Lab</a>- LAB.未更新&emsp;
+<a href="/zajia/"  style="color:#DC144C" target="_blank">杂家导航</a>  
 
 <P>       
 <h3> Some useful/beautiful web </h3>   
@@ -53,8 +54,8 @@ title: 资源「USEFUL LINKS」
 <a href="https://www.bfdz.ink/2018/07/06/103/" target="_blank">周浩作品集 </a>- 纪录片。
 <p>
 <a href="https://archive.org/" target="_blank">互联网档案馆 </a>- 网站时光机。
-<p>
-<a href="/daohang/"  style="color:#272727" target="_blank"> 导航</a>  
+
+
 </p>
 
 
