@@ -10,9 +10,10 @@ tag: 博客
 
 为了保障我能够随时上 Google 查资料，把我以前和现在以及将来我可能要用的付费工具（服务商）汇总一下，以防不测。       
 
-1、<a href="https://user.vtie.net/aff.php?aff=2" target="_blank"> 弧特云 </a>         
+1、<a href="https://user.wiucloud.com/aff.php?aff=1" target="_blank"> WiuCloud</a>       
 
-2、<a href="https://vip.member.biwcloud.com/aff.php?aff=6" target="_blank"> BiwCloud</a>       
+
+2、<a href="https://user.vtie.net/aff.php?aff=2" target="_blank"> 弧特云 </a>         
 
 3、<a href="https://agentneo.rocks/?rc=rxzyuip5" target="_blank">AgentNEO</a>        
 
