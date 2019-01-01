@@ -13,7 +13,7 @@ tag: 博客
 1、<a href="https://user.wiucloud.com/aff.php?aff=1" target="_blank"> WiuCloud</a>       
 
 
-2、<a href="https://user.vtie.net/aff.php?aff=2" target="_blank"> 弧特云 </a>         
+2、<a href="https://user.wiucloud.com/aff.php?aff=1" target="_blank"> 弧特云 </a>         
 
 3、<a href="https://agentneo.rocks/?rc=rxzyuip5" target="_blank">AgentNEO</a>        
 
