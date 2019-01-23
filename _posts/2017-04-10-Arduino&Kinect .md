@@ -6,7 +6,9 @@ description: "Arduino，Kinect，体感智能车"
 tag:  Arduino
 ---   
 
-
+<h6><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/copyright.png" alt="copyright" style="display:inline;margin-bottom: -5px;" width="20" height="20"> 版权声明：本文为博主原创文章，未经博主允许不得转载。
+<a target="_blank" href="http://robotkang.cc/2017/04/Arduino&Kinect/">原文地址：http://robotkang.cc/2017/04/Arduino&Kinect/</a>
+</h6>
 　　这个小项目是之前在学校实验室做的，已成功运行，现在把相关的资料记录下来，便于日后察阅。     
 
 　　之前大部分步骤是按照奥松的这篇教程来做的，原文地址：<a href="http://www.alsrobot.cn/article-114.html" target="_blank">奥松</a>，有什么问题也可以在文章末尾给我留言。  

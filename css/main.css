@@ -151,6 +151,15 @@ h4 {
 h5 {
   font-size: 1em; }
 
+/*版权声明格式*/
+h6 {
+  font-size: 0.8em; 
+  margin-bottom: 20px;
+  margin-top: 15px;
+  line-height: 2; 
+  color: #999;
+  padding-left:1.7em;}
+
 p {
   margin-bottom: 20px;
   margin-top: 15px;

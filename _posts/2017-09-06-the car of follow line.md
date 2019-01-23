@@ -5,7 +5,9 @@ date: 2017-09-06
 tag: 博客
 ---
 
-
+<h6><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/copyright.png" alt="copyright" style="display:inline;margin-bottom: -5px;" width="20" height="20"> 版权声明：本文为博主原创文章，未经博主允许不得转载。
+<a target="_blank" href="http://robotkang.cc/2017/09/the-car-of-follow-line/">原文地址：http://robotkang.cc/2017/09/the-car-of-follow-line/ </a>
+</h6>
 学校的那台[nao机器人]系统版本比较低了，官方慢慢的不支持了，所以我就给它来了一次升级，好在刷机比较成功。不过刷机后机器人开机的时间比较长了，估计是硬件有点跟不上了吧...  现在把升级过程方法记录在这里，大家也可以参考一下~            
 
 1. 机器人刷机的办法一般有两种，第一种是通过choregraph来，先去[官网](https://www.ald.softbankrobotics.com/en)community-source-documentions-NAOQI OS下载你需要的系统镜像文件版本，然后再去chore（连接-高级-更新机器人系统），这种是比较正常的办法~但是有时候机器人系统完全崩溃，想要整个机器人恢复到出厂设置，变成一台全新的机器人，那么就需要用到下面的方法了。

@@ -8,7 +8,9 @@ tags: 博客
 
 
 
-
+<h6><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/copyright.png" alt="copyright" style="display:inline;margin-bottom: -5px;" width="20" height="20"> 版权声明：本文为博主原创文章，未经博主允许不得转载。
+<a target="_blank" href="http://robotkang.cc/2017/11/The-ladder/">原文地址：http://robotkang.cc/2017/11/The-ladder/ </a>
+</h6>
 ![上网][1]
 <br>
   以前是知道有翻墙这么个东西，总感觉天朝的网络世界已经够我遨游了，而且处处是一片祥和，所以就觉得墙内挺好，也就懒得架梯子翻墙了，但最近时不时的要上网查点技术资料，有的时候需要频繁的访问国外的一些网站，可在天朝是不能随随便便访问外网的。搜索一番，在无意中发现了[BiwCloud][5]这个网站。免费使用了一下感觉各方面都很满意，网速很快很稳定，不过免费的有各种不尽人意的地方，比如什么定时断网、流量限制、时间限制什么的，用起来各种不爽，于是索性就买了一年的会员。接下来就是使用它了，这段时间一直在用。        

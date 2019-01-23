@@ -5,7 +5,9 @@ date: 2017-03-10
 tag: 网站建设
 ---
 
-
+<h6><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/copyright.png" alt="copyright" style="display:inline;margin-bottom: -5px;" width="20" height="20"> 版权声明：本文为博主原创文章，未经博主允许不得转载。
+<a target="_blank" href="http://robotkang.cc/2017/03/helloworld1/">原文地址：http://robotkang.cc/2017/03/helloworld1/</a>
+</h6>
  ![hello world](https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/2017-03-09.jpg)
 
 

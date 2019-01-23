@@ -5,11 +5,10 @@ date: 2017-03-03
 tag: 网站建设
 ---
 
----------------------------------
-**本文转载自<a href="http://www.lilian.info" target="_blank">Lilian</a>，后稍加改之。特此声明！**
 
----------------------------------
-
+<h6><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/copyright.png" alt="copyright" style="display:inline;margin-bottom: -5px;" width="20" height="20"> 版权声明：本文为博主原创文章，未经博主允许不得转载。
+<a target="_blank" href="http://robotkang.cc/2017/03/HowToCreateBlog/">原文地址：http://robotkang.cc/2017/03/HowToCreateBlog/</a>
+</h6>
 
 *本博客的搭建真是历经了千辛万苦、一步一坑啊。*
 
