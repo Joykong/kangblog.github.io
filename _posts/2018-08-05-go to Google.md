@@ -17,7 +17,7 @@ tag: 博客
 
 2、<a href="https://user.wiucloud.com/aff.php?aff=1" target="_blank"> 弧特云 </a>         
 
-3、<a href="https://agentneo.rocks/?rc=rxzyuip5" target="_blank">AgentNEO</a>        
+3、<a href="https://agentneo.co/?rc=rxzyuip5" target="_blank">AgentNEO</a>        
 
 4、<a href="#" target="_blank"> 天路云服务 </a>          
 
