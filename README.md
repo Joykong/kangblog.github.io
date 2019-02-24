@@ -5,9 +5,19 @@
 
 可关注我的公众号进一步了解\(^o^)/~
 
-![world](http://omjh2j5h3.bkt.clouddn.com/kanggzh.png)
+![world](https://wx2.sinaimg.cn/mw690/005MCs32gy1fxb45sem9qj3076076wey.jpg)
 
 ### 使用条件
+
+
+<div style="color:#FF0000">
+<p>
+模板代码可任意使用，但请保留本站友情链接。     
+&emsp;      
+本站名称：Robotkang &emsp;        
+本站网址：http://www.robotkang.cc &emsp;         
+</p>
+</div>
 
 Jekyll 支持 Mac 、Windows、ubuntu 、Linux 操作系统                     
 Jekyll 需要依赖：Ruby、bundler

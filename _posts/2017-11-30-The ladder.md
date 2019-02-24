@@ -35,7 +35,7 @@ tags: 博客
 | 天行VPN    |  老牌VPN、提供世界各地VPN代理服务器，低延时、高稳定性 |  ¥20 |  [点此进入][11]     |-->
 
 
-<a href="https://user.wiucloud.com/aff.php?aff=1"><img style="border: 0px" src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/Google%20earth.png"/></a>        
+<a href="https://vip.wiucloud.com/auth/register?code=kzlQZX6ybb5WlxQRTwLVoZMHmDolrta3"><img style="border: 0px" src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/Google%20earth.png"/></a>        
 
 
   自从翻墙以来，感觉是发现了新大陆！最近发现谷歌地球是相当...用一个词形容那就是“惊艳”，玩了一下午简直停不下来，当查看天朝的时候，发现并没有给任何一个城市建模（反正截止目前没得），这也难怪，与世隔绝嘛，大家都懂。           
@@ -52,7 +52,7 @@ tags: 博客
   [1]: http://omjh2j5h3.bkt.clouddn.com/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91.png
  
   [4]: https://i.sihua.me/?u=9831
-  [5]: https://user.wiucloud.com/aff.php?aff=1
+  [5]: https://vip.wiucloud.com/auth/register?code=kzlQZX6ybb5WlxQRTwLVoZMHmDolrta3
   [6]: http://cht.li/nlb75
   [7]: http://doujia.gs/4umn9
   [8]: http://g46.net/qyjqq
