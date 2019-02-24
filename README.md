@@ -10,14 +10,15 @@
 ### 使用条件
 
 
-<div style="color:#FF0000">
-<p>
-模板代码可任意使用，但请保留本站友情链接。     
+
+- 模板代码可任意使用，但请保留本站友情链接。     
 &emsp;      
-本站名称：Robotkang &emsp;        
-本站网址：http://www.robotkang.cc &emsp;         
-</p>
-</div>
+
+- 本站名称：Robotkang &emsp;        
+
+
+- 本站网址：http://www.robotkang.cc &emsp;         
+
 
 Jekyll 支持 Mac 、Windows、ubuntu 、Linux 操作系统                     
 Jekyll 需要依赖：Ruby、bundler
