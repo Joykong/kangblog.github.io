@@ -38,7 +38,7 @@ title: 资源「USEFUL LINKS」
 <p>
 <a href="https://www.panc.cc" target="_blank">胖次</a>- 网盘，资料搜索..&emsp;
 <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/log_yuan.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<a href="https://vip.wiucloud.com/auth/register?code=kzlQZX6ybb5WlxQRTwLVoZMHmDolrta3" style="color:#DC143C" target="_blank">梯子[VPN]</a>- 可访问Google的东东 &emsp;
+<a href="http://p.comworld.club/?u=44" style="color:#DC143C" target="_blank">梯子[VPN]</a>- 可访问Google的东东 &emsp;
 <a href="http://daohang.lusongsong.com/" target="_blank">博客大全</a>- Blog&emsp;
 <a href="http://www.sysmini.com" target="_blank">极简系统</a>- 最纯净的系统下载平台       
 
